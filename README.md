@@ -9,7 +9,7 @@ your caches.
 
 Get it via `npm`:
 
-  $ npm install connect-nocache
+    $ npm install connect-nocache
 
 And then use it in your code (here, coffeescript):
 
